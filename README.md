@@ -1,9 +1,10 @@
 # anoter
-<<<<<<< HEAD
 Alternative Web app for Milanote, Notion, JNote, and so on. 
 =======
 
-A new Flutter project.
+All the app data are stored offline.
+This app works on web only, because it depends on db_shim.
+I run it on an instance of vps in 5lx7.l.time4vps.cloud, if you were to install the app, it should be able to work even without internet.
 
 ## Getting Started
 
