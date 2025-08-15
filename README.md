@@ -2,6 +2,8 @@
 Alternative Web app for Milanote, Notion, JNote, and so on. 
 =======
 
+A working instance: (https://ahmedmajedkaz.github.io/)
+
 All the app data are stored offline.
 This app works on web only, because it depends on db_shim.
 if you were to install the app, it should be able to work even without internet.
